@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <body>
          <div type="document">
-            <pb facs="tcp:0F7D3982A6D32DB0:010133_0000_0F7CE7E378E02A58"/>
-            <pb facs="tcp:0F7D3982A6D32DB0:010133_0001_0F7CE7E6614FB9A8"/>
+            <pb facs="unknown:010133_0000_0F7CE7E378E02A58"/>
+            <pb facs="unknown:010133_0001_0F7CE7E6614FB9A8"/>
             <opener>
                <dateline>PHILADELPHIA, <date>November 7, 1765.</date>
                </dateline>
